@@ -1,6 +1,6 @@
 Projeto de Extensão ADS Estácio
 
-Criação de uma aplicaçào mobile utilizando React-Native.
+Criação de uma aplicação mobile utilizando React-Native.
 
 Problema a ser resolvido: um aplicativo para controle de despesas condonomiais e entradas em caixa.
 
