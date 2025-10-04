@@ -1,0 +1,29 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android
+android/app/build/
+android/.gradle/
+android/local.properties
+*.keystore
+!debug.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+
+# Misc
+.env
+.env.local
+.vscode/
+.idea/
+
+# Gradle
+android/.gradle/
+android/build/
+android/app/build/
